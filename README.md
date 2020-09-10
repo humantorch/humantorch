@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=humantorch" alt="humantorch" /> </p>
+
+- 🔭 I’m the Engineering Director at [Thrillworks](https://thrillworks.com), a Toronto-based adtech/marketing agency
+
+
 <!--
 **humantorch/humantorch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
