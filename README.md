@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi, I'm Scott. I think you're awesome. 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humantorch" alt="humantorch" /> </p>
 
 - 🔭 I’m the Engineering Director at [Thrillworks](https://thrillworks.com), a Toronto-based adtech/marketing agency
-
+- 📫 @humantorch on both [Twitter](https://twitter.com/humantorch) and [Instagram](https://instagram.com/humantorch)
+- 😄 he/him
+- ⚡ Want to know more? Try `$npx humantorch`
 
 <!--
 **humantorch/humantorch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
