@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humantorch" alt="humantorch" /> </p>
 
-- 🔭 I’m the Engineering Director at [Thrillworks](https://thrillworks.com), a Toronto-based adtech/marketing agency
+- 🔭 Engineering Director at [Thrillworks](https://thrillworks.com), a Toronto-based adtech/marketing agency [**and we're hiring**](https://thrillworkscareers.humi.ca/job-board)
 - 📫 @humantorch on both [Twitter](https://twitter.com/humantorch) and [Instagram](https://instagram.com/humantorch)
 - 😄 he/him
 - ⚡ Want to know more? Try `$npx humantorch`
