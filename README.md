@@ -7,7 +7,7 @@
 - 🔭 Engineering Director at [Thrillworks](https://thrillworks.com), a Toronto-based adtech/marketing agency [**and we're hiring**](https://thrillworkscareers.humi.ca/job-board)
 - 📫 @humantorch on both [Twitter](https://twitter.com/humantorch) and [Instagram](https://instagram.com/humantorch)
 - 😄 he/him
-- ⚡ Want to know more? Try `$npx humantorch`
+- ⚡ Want to know more? Try `$npx humantorch` or have a boo at my [How To Scott](https://github.com/humantorch/how-to-scott). 
 
 <!--
 **humantorch/humantorch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
