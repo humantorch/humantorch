@@ -1,6 +1,6 @@
 ### Hi, I'm Scott. I think you're awesome. 👋
 
-#### Technology is a hell of a drug: I'm literally a professional nerd and I can't keep up.
+#### Technology is a hell of a drug. I'm literally a professional nerd and I can't keep up.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humantorch" alt="humantorch" /> </p>
 
