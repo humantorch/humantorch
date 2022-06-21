@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humantorch" alt="humantorch" /> </p>
 
-- 🔭 Engineering Director at [Double Nines](https://doublenines.co), a fully remote digital product design & development superpower.
+- 🔭 Engineering Manager/Director currently available for contract consulting or full-time roles.
 - 📫 @humantorch on both [Twitter](https://twitter.com/humantorch) and [Instagram](https://instagram.com/humantorch)
 - 😄 he/him
 - ⚡ Want to know more? Try `$npx humantorch` or have a boo at my [How To Scott](https://github.com/humantorch/how-to-scott). 
