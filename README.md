@@ -7,7 +7,7 @@
 - 🔭 Engineering Manager/Director currently available for contract consulting or full-time roles.
 - 📫 @humantorch on both [Twitter](https://twitter.com/humantorch) and [Instagram](https://instagram.com/humantorch)
 - 😄 he/him
-- ⚡ Want to know more? Try `$npx humantorch` or have a boo at my [How To Scott](https://github.com/humantorch/how-to-scott). 
+- ⚡ Want to know more? Try `$npx humantorch` or have a glance at https://prayingmadness.com. 
 
 <!--
 **humantorch/humantorch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
