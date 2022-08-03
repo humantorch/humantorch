@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humantorch" alt="humantorch" /> </p>
 
-- 🔭 Engineering Manager/Director currently available for contract consulting or full-time roles.
+- 🔭 Engineering Manager at [Exos](https://teamexos.com).
 - 📫 @humantorch on both [Twitter](https://twitter.com/humantorch) and [Instagram](https://instagram.com/humantorch)
 - 😄 he/him
 - ⚡ Want to know more? Try `$npx humantorch` or have a glance at https://prayingmadness.com. 
