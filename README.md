@@ -7,7 +7,7 @@
 - 🔭 Engineering Manager/Technical Director currently available for new roles.
 - 📫 @humantorch on both [Twitter](https://twitter.com/humantorch) and [Instagram](https://instagram.com/humantorch)
 - 😄 he/him
-- ⚡ Want to know more? Try `$npx humantorch` or have a glance at https://prayingmadness.com. 
+- ⚡ Want to know more? Try `$npx humantorch` or have a glance at https://scottkosman.com. 
 
 <!--
 **humantorch/humantorch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
