@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humantorch" alt="humantorch" /> </p>
 
 - 🔭 Engineering Manager at [1Password](https://1password.com)
-- 📫 @humantorch on both [Twitter](https://twitter.com/humantorch) and [Instagram](https://instagram.com/humantorch)
+- 📫 @humantorch on [Instagram](https://instagram.com/humantorch)
 - 😄 he/him
 - ⚡ Want to know more? Try `$npx humantorch` or have a glance at https://scottkosman.com. 
 
