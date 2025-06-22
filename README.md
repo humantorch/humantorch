@@ -5,9 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humantorch" alt="humantorch" /> </p>
 
 - 🔭 Engineering Manager at [1Password](https://1password.com)
+- 💼 Join my Professional Network™ on [LinkedIn](https://www.linkedin.com/in/scottkosman/)
 - 📫 @humantorch on [Instagram](https://instagram.com/humantorch)
-- 😄 he/him
-- ⚡ Want to know more? Try `$npx humantorch` or have a glance at https://scottkosman.com. 
+- 😄 Pronouns: he/him
+- ⚡ Want to know more? Try `$npx scottkosman` in your terminal of choice or have a glance at https://scottkosman.com. 
 
 <!--
 **humantorch/humantorch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
