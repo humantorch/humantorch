@@ -8,6 +8,7 @@
 - 💼 Join my Professional Network™ on [LinkedIn](https://www.linkedin.com/in/scottkosman/)
 - 📫 @humantorch on [Instagram](https://instagram.com/humantorch)
 - 😄 Pronouns: he/him
+- 🌎 Halifax, Nova Scotia, Canada
 - ⚡ Want to know more? Try `$npx scottkosman` in your terminal of choice or have a glance at https://scottkosman.com. 
 
 <!--
