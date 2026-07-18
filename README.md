@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humantorch" alt="humantorch" /> </p>
 
-- 🔭 Engineering Manager at [1Password](https://1password.com)
+- 🔭 Engineering Manager at [1Password](https://1password.com) || sole developer at [Blackglass](https://blackglass.me)
 - 💼 Join my Professional Network™ on [LinkedIn](https://www.linkedin.com/in/scottkosman/)
 - 📫 @humantorch on [Instagram](https://instagram.com/humantorch)
 - 😄 Pronouns: he/him
