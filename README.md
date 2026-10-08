@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humantorch" alt="humantorch" /> </p>
 
-- 🔭 Engineering Manager || sole developer at [Blackglass](https://blackglass.me)
+- 🔭 Sr. Engineering Manager, Enterprise AI at [Mozilla Thunderbird](https://www.thunderbird.net) || sole developer at [Blackglass](https://blackglass.me)
 - 💼 Join my Professional Network™ on [LinkedIn](https://www.linkedin.com/in/scottkosman/)
 - 📫 @humantorch on [Instagram](https://instagram.com/humantorch)
 - 😄 Pronouns: he/him
